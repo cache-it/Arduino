@@ -1,7 +1,7 @@
 
-#define TRIGGER 2
-#define ECHO 7
-#define ALARM 10
+#define TRIGGER 1
+#define ECHO 2
+#define ALARM 5
 
 int echoAlarm;
 long duration;
